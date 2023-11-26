@@ -1,6 +1,6 @@
 # untitled
 
-A new Flutter project.
+A Flutter clean architecture sample project, that fetchs user ip.
 
 ## Getting Started
 
