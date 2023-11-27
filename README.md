@@ -2,6 +2,10 @@
 
 A Flutter clean architecture sample project, that fetchs user ip.
 
+## Features
+
+- Fetches the user's IP address from the network.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
